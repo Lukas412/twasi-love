@@ -1,0 +1,8 @@
+name: "Love"
+main: net.twasiplugin.lukasweber.LovePlugin
+description: "Spread love in your Twitch Chat"
+version: 0.0.1-SNAPSHOT
+author: "Lukas Weber"
+messageHandler: false
+commands:
+  - love

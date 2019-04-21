@@ -1,0 +1,8 @@
+syntax={sender.displayName}, um die Liebe zwischen dir und einer Person zu ermitteln, nutze !love [name] <3
+
+love.answers.cloud={entity.account1.displayName} und {entity.account2.displayName} sind auf Wolke {cloud} {emote}
+love.answers.percent={entity.account1.displayName} und {entity.account2.displayName} lieben sich zu {entity.number}% {emote}
+love.answers.level=Die Liebe <3 zwischen {entity.account1.displayName} und {entity.account2.displayName} ist auf Level {entity.number} {emote}
+love.answers.math=Wäre Liebe eine Gleichung, würde {entity.account1.displayName} + {entity.account2.displayName} {entity.number} <3 ergeben {emote}
+
+love.error.notfound={sender.displayName}, der Nutzer {args.1} konnte nicht gefunden werden BibleThump
